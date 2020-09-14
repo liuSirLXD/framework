@@ -10,6 +10,7 @@ public class Hello {
         System.out.println("hello....");
         System.out.println("hello....");
         System.out.println("hello....");//哈哈冲突把
-        System.out.println("hello....");
+        System.out.println("hello....");//我要解决冲突
+        System.out.println("hello....");//我是
     }
 }
